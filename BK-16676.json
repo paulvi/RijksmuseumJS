@@ -1,0 +1,288 @@
+{
+  "__url":"https://www.rijksmuseum.nl/api/en/collection/BK-16676?key=UQVLOfJR&format=json",
+  "elapsedMilliseconds": 66,
+  "artObject": {
+    "links": {
+      "search": "https://www.rijksmuseum.nl/api/nl/collection"
+    },
+    "id": "en-BK-16676",
+    "priref": "248783",
+    "objectNumber": "BK-16676",
+    "language": "en",
+    "title": "Desk",
+    "copyrightHolder": null,
+    "webImage": {
+      "guid": "6fdcd710-d31d-4de3-8ae6-d8687067ef74",
+      "offsetPercentageX": 50,
+      "offsetPercentageY": 50,
+      "width": 3000,
+      "height": 2779,
+      "url": "http://lh4.ggpht.com/FeheHnW8-KOx-prHRCvly8ReF9WKysmPJDEd99EEVDViH1DvYytyDpkjnkeyqqj85WNbrkXFaoFe0jBKB9DdNJApLQ=s0"
+    },
+    "colors": [
+      "#C6BBA6",
+      " #88745B",
+      " #A79984",
+      " #504033",
+      " #21150E",
+      " #835B2B",
+      " #EBE4CD"
+    ],
+    "colorsWithNormalization": [
+      {
+        "originalHex": "#C6BBA6",
+        "normalizedHex": "#E0CC91"
+      },
+      {
+        "originalHex": " #88745B",
+        "normalizedHex": "#B35A1F"
+      },
+      {
+        "originalHex": " #A79984",
+        "normalizedHex": "#E0CC91"
+      },
+      {
+        "originalHex": " #504033",
+        "normalizedHex": "#737C84"
+      },
+      {
+        "originalHex": " #21150E",
+        "normalizedHex": "#000000"
+      },
+      {
+        "originalHex": " #835B2B",
+        "normalizedHex": "#B35A1F"
+      },
+      {
+        "originalHex": " #EBE4CD",
+        "normalizedHex": "#FBF6E1"
+      }
+    ],
+    "normalizedColors": [
+      "#D2B48C",
+      " #808080",
+      " #696969",
+      " #000000",
+      " #8B4513",
+      " #FFF8DC"
+    ],
+    "normalized32Colors": [
+      "#E0CC91",
+      " #B35A1F",
+      " #737C84",
+      " #000000",
+      " #FBF6E1"
+    ],
+    "titles": [],
+    "description": "Bureau op S-vormige poten, versierd met marqueterie in meerdere materialen. De geschulpte voor-en zijkanten van het onderstel dragen figuratieve marqueteriepanelen, evenals de zijkanten van het bovenstel en de velden van het centrale opzetstuk. Op het schrijfblad is een troonzaal vol verwijzingen naar de keurvorst van Trier afgebeeld, waaronder de initialen I.P.C. Het middenveld aan de voorkant van het onderstel ligt hoger dan de zijvelden. Overdadig versierde lijsten en ornamenten in marqueterie en beslag.",
+    "labelText": null,
+    "objectTypes": [],
+    "objectCollection": [],
+    "makers": [
+      {
+        "name": "Abraham Roentgen",
+        "unFixedName": "Roentgen, Abraham",
+        "placeOfBirth": "Mülheim (am Rhein)",
+        "dateOfBirth": "1711-01-30",
+        "dateOfBirthPrecision": null,
+        "dateOfDeath": "1793-03-01",
+        "dateOfDeathPrecision": null,
+        "placeOfDeath": "Herrnhut",
+        "occupation": [],
+        "roles": [],
+        "nationality": "Duits",
+        "biography": null,
+        "productionPlaces": [
+          "Neuwied"
+        ],
+        "schoolStyles": [],
+        "qualification": null
+      }
+    ],
+    "principalMakers": [
+      {
+        "name": "Abraham Roentgen",
+        "unFixedName": "Roentgen, Abraham",
+        "placeOfBirth": "Mülheim (am Rhein)",
+        "dateOfBirth": "1711-01-30",
+        "dateOfBirthPrecision": null,
+        "dateOfDeath": "1793-03-01",
+        "dateOfDeathPrecision": null,
+        "placeOfDeath": "Herrnhut",
+        "occupation": [],
+        "roles": [],
+        "nationality": "Duits",
+        "biography": null,
+        "productionPlaces": [
+          "Neuwied"
+        ],
+        "schoolStyles": [],
+        "qualification": null
+      }
+    ],
+    "plaqueDescriptionDutch": "Het bureau heeft een groot aantal verborgen vakken en laden en herbergt zelfs een uitklapbare knielbank. Het is gemaakt voor Johann Philipp von Walderdorff, aartsbisschop en keurvorst van Trier, en is bovenin versierd met diens portret en wapen. Het bureau is het rijkste pronkstuk dat ooit is gemaakt door Abraham Roentgen, de beroemdste Duitse meubelmaker van zijn tijd.  ",
+    "plaqueDescriptionEnglish": null,
+    "principalMaker": "Abraham Roentgen",
+    "artistRole": null,
+    "associations": [],
+    "acquisition": {
+      "method": null,
+      "date": "1960-01-01T00:00:00Z",
+      "creditLine": null
+    },
+    "exhibitions": [
+      {
+        "title": "Präzision und Hingabe. Möbelkunst von Abraham und David Roentgen",
+        "organiser": null,
+        "place": "Berlin",
+        "start": "2007-04-27T00:00:00Z",
+        "end": "2007-11-11T00:00:00Z",
+        "startYear": 2007,
+        "endYear": 2007
+      }
+    ],
+    "materials": [
+      "wood",
+      "cherry",
+      "silver",
+      "bone",
+      "bronze",
+      "ivory"
+    ],
+    "techniques": [],
+    "productionPlaces": [
+      "Neuwied"
+    ],
+    "dating": {
+      "early": "1758-01-01T00:00:00Z",
+      "earlyPrecision": "c.",
+      "late": "1760-01-01T00:00:00Z",
+      "latePrecision": "c.",
+      "year": 1758,
+      "yearEarly": 1758,
+      "yearLate": 1760,
+      "period": 18
+    },
+    "classification": {
+      "iconClassIdentifier": [
+        "41A671",
+        "44B1211"
+      ],
+      "iconClassDescription": [
+        "still life of plants, flowers and fruit",
+        "throne-room"
+      ],
+      "motifs": [],
+      "events": [],
+      "periods": [],
+      "places": [],
+      "people": [
+        "Walderdorff, Johann Philipp von"
+      ],
+      "objectNumbers": [
+        "BK-16676"
+      ]
+    },
+    "hasImage": true,
+    "historicalPersons": [
+      "Walderdorff, Johann Philipp von"
+    ],
+    "inscriptions": [
+      "circumscription",
+      "IOAN.PHILIP.D.G.ARCHIEPISTREVIR.S.R.I.PRIN.ELECT.ADMIN.PRUM.P.P.",
+      "monogram",
+      "JPC",
+      "inscription",
+      "ALL: // GLOR:",
+      "inscription",
+      "Wer rdlich denckdt undt // freundscft häldt, verdiendt // Den gess der Weldt"
+    ],
+    "documentation": [
+      "Inzoomer object op zaal, 2013 (Nederlands/English).",
+      "A. Feulner, 'Frühwerke von David Roentgen\", Münchener Jahrbuch der bildenden Kunst N.F. 1 (1924), p. 276, 278, afb. 1.",
+      "‘Keuze uit de aanwinsten’, Bulletin van het Rijksmuseum 13 (1965), p. 134, afb. 16 (slechts genoemd)."
+    ],
+    "catRefRPK": [],
+    "principalOrFirstMaker": "Abraham Roentgen",
+    "dimensions": [
+      {
+        "unit": "cm",
+        "type": "height",
+        "part": null,
+        "value": "148.5"
+      },
+      {
+        "unit": "cm",
+        "type": "width",
+        "part": null,
+        "value": "110"
+      },
+      {
+        "unit": "cm",
+        "type": "depth",
+        "part": null,
+        "value": "58.5"
+      },
+      {
+        "unit": "cm",
+        "type": "width",
+        "part": null,
+        "value": "110"
+      },
+      {
+        "unit": "cm",
+        "type": "depth",
+        "part": null,
+        "value": "58.5"
+      }
+    ],
+    "physicalProperties": [],
+    "physicalMedium": "wood",
+    "longTitle": "Desk, Abraham Roentgen, c. 1758 - c. 1760",
+    "subTitle": "h 148.5cm × w 110cm × d 58.5cm",
+    "scLabelLine": "Abraham Roentgen (1711-1793), Neuwied, c. 1758-1760, oak, maple and walnut, veneered with various woods, tortoiseshell, silver, mother-of-pearl, copper, ivory, gilt bronze",
+    "label": {
+      "title": "Desk",
+      "makerLine": "Abraham Roentgen (1711-1793), Neuwied, c. 1758-1760, oak, maple and walnut, veneered with various woods, tortoiseshell, silver, mother-of-pearl, copper, ivory, gilt bronze",
+      "description": "This desk has numerous hidden compartments and drawers and even includes a folding kneeling bench. It was made for Johann Philipp von Walderdorff, Archbishop and Elector of Trier, and is embellished at the top with his portrait and coat of arms. This desk is the greatest showpiece ever made by Abraham Roentgen –the most famous German cabinetmaker of his time.",
+      "notes": null,
+      "date": "2013-01-09"
+    },
+    "showImage": true
+  },
+  "artObjectPage": {
+    "id": "en-BK-16676",
+    "similarPages": [
+      {
+        "name": "(Writing) tables",
+        "url": "/en/explore-the-collection/works-of-art/writing-tables"
+      },
+      {
+        "name": "Abraham Roentgen",
+        "url": "/en/explore-the-collection/overview/abraham-roentgen"
+      },
+      {
+        "name": "Rococo",
+        "url": "/en/explore-the-collection/styles/rococo"
+      },
+      {
+        "name": "Furniture and interiors",
+        "url": "/en/explore-the-collection/works-of-art/furniture-and-interiors"
+      }
+    ],
+    "lang": "en",
+    "objectNumber": "BK-16676",
+    "tags": [],
+    "plaqueDescription": "This desk has numerous secret compartments and drawers and even includes a fold-out prie-dieu. It was made for Johann Philipp von Walderdorff, archbishop and elector of Trier, and is decorated at the top with his portrait and heraldic arms. The desk is the most expensive showpiece ever made by Abraham Roentgen, the leading cabinetmaker in Germany in his day. ",
+    "audioFile1": null,
+    "audioFileLabel1": null,
+    "audioFileLabel2": null,
+    "createdOn": "0001-01-01T00:00:00Z",
+    "updatedOn": "2012-09-18T14:06:12.2954985Z",
+    "adlibOverrides": {
+      "titel": null,
+      "maker": null,
+      "etiketText": null
+    }
+  }
+}

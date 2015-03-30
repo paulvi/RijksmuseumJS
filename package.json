@@ -1,0 +1,21 @@
+{
+  "name": "RijksmuseumJS",
+  "version": "0.1.0",
+  "description": "RijksmuseumJS",
+  "main": "req.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Paul Verest",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.53.0"
+  }
+}
